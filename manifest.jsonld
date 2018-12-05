@@ -1,6 +1,7 @@
 {
   "@context": "https://code.sgo.to/datasets",
   "@type": "Dataset",
+  "download": "https://github.com/samuelgoto/thehighline/releases/download/v0.0.1/thehighline.tar.gz",
   "classes": [
     "images/forgiving-change/index.jsonld",
     "images/i-lift-my-lamp-beside-the-golden-door/index.jsonld",

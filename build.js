@@ -3,6 +3,7 @@ const fs = require('fs');
 let dataset = {
   "@context": "https://code.sgo.to/datasets",
   "@type": "Dataset",
+  "download": "https://github.com/samuelgoto/thehighline/releases/download/v0.0.1/thehighline.tar.gz",
   "classes": []
 };
 for (let dir of fs.readdirSync("images/")) {
