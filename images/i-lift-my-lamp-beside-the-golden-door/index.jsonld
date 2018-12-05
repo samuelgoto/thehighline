@@ -1,0 +1,91 @@
+{
+  "@context": "https://code.sgo.to/datasets",
+  "@id": "i-lift-my-lamp-beside-the-golden-door",
+  "@type": "Class",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104709.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104712.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104715.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104718.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104724.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104731.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104739.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104745.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104752.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104754.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104804.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104806.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104815_1.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104825.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104831.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104834.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104848.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104853.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104857.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104905.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "index.jsonld"
+    }
+  ]
+}

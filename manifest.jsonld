@@ -1,0 +1,13 @@
+{
+  "@context": "https://code.sgo.to/datasets",
+  "@type": "Dataset",
+  "classes": [
+    "images/forgiving-change/index.jsonld",
+    "images/i-lift-my-lamp-beside-the-golden-door/index.jsonld",
+    "images/joel-shapiro/index.jsonld",
+    "images/prop/index.jsonld",
+    "images/the-dig-of-no-body/index.jsonld",
+    "images/urban-rattle/index.jsonld",
+    "images/we-are-11-million/index.jsonld"
+  ]
+}

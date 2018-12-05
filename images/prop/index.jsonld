@@ -1,0 +1,95 @@
+{
+  "@context": "https://code.sgo.to/datasets",
+  "@id": "prop",
+  "@type": "Class",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_105535.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_105541.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_105549.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_105555.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_105558.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_105603.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_105609.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_105619.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_105623.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_105628.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_105632.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_105637.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_105642.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_105644.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_105650.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_105656.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_105700.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_105703.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_105706.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_105711.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_105715.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "index.jsonld"
+    }
+  ]
+}

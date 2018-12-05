@@ -1,0 +1,91 @@
+{
+  "@context": "https://code.sgo.to/datasets",
+  "@id": "urban-rattle",
+  "@type": "Class",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104505.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104529.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104537.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104539.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104542.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104547.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104552.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104558.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104605.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104612.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104617.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104623.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104627.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104631.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104635.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104638.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104644.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104646.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104652.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_104656.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "index.jsonld"
+    }
+  ]
+}

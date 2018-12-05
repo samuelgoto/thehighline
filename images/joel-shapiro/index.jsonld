@@ -1,0 +1,95 @@
+{
+  "@context": "https://code.sgo.to/datasets",
+  "@id": "joel-shapiro",
+  "@type": "Class",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_103316.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_103323.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_103342.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_103347.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_103354.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_103401.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_103409.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_103415.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_103425.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_103429.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_103432.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_103537.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_103542.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_103548.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_103550.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_103555.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_103558.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_103603.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_103605.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_103610.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_103619.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "index.jsonld"
+    }
+  ]
+}

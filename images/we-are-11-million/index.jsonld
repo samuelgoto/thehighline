@@ -1,0 +1,95 @@
+{
+  "@context": "https://code.sgo.to/datasets",
+  "@id": "we-are-11-million",
+  "@type": "Class",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_110124.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_110128.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_110135.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_110143.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_110152.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_110159.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_110203.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_110208.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_110214.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_110218.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_110222.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_110226.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_110231.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_110239.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_110243.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_110246.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_110248.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_110254.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_110258.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_110300.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "IMG_20181129_110305.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "index.jsonld"
+    }
+  ]
+}
