@@ -2,6 +2,7 @@
   "@context": "https://code.sgo.to/datasets",
   "@id": "we-are-11-million",
   "@type": "Class",
+  "name": "we-are-11-million",
   "images": [
     {
       "@type": "Image",

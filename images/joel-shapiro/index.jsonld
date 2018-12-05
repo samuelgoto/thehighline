@@ -2,6 +2,7 @@
   "@context": "https://code.sgo.to/datasets",
   "@id": "joel-shapiro",
   "@type": "Class",
+  "name": "joel-shapiro",
   "images": [
     {
       "@type": "Image",

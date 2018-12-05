@@ -2,6 +2,7 @@
   "@context": "https://code.sgo.to/datasets",
   "@id": "the-dig-of-no-body",
   "@type": "Class",
+  "name": "the-dig-of-no-body",
   "images": [
     {
       "@type": "Image",

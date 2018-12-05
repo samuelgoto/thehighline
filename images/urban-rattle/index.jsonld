@@ -2,6 +2,7 @@
   "@context": "https://code.sgo.to/datasets",
   "@id": "urban-rattle",
   "@type": "Class",
+  "name": "urban-rattle",
   "images": [
     {
       "@type": "Image",

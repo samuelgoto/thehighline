@@ -12,6 +12,7 @@ for (let dir of fs.readdirSync("images/")) {
     "@context": "https://code.sgo.to/datasets",
     "@id": `${dir}`,
     "@type": "Class",
+    "name": `${dir}`,
     images: []
   };
   for (let file of fs.readdirSync(`images/${dir}`)) {

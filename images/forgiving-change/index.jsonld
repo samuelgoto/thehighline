@@ -2,6 +2,7 @@
   "@context": "https://code.sgo.to/datasets",
   "@id": "forgiving-change",
   "@type": "Class",
+  "name": "forgiving-change",
   "images": [
     {
       "@type": "Image",

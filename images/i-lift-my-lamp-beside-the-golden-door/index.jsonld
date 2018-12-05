@@ -2,6 +2,7 @@
   "@context": "https://code.sgo.to/datasets",
   "@id": "i-lift-my-lamp-beside-the-golden-door",
   "@type": "Class",
+  "name": "i-lift-my-lamp-beside-the-golden-door",
   "images": [
     {
       "@type": "Image",
